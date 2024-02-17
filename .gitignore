@@ -1,0 +1,8 @@
+bin/
+obj/
+packages/
+SmokeGrenade/bin/
+SmokeGrenade/obj/
+.idea/
+.vs/
+*.sln.DotSettings.user
